@@ -10,7 +10,7 @@
 
 - 🔍 Find me on [**Google**](https://tinyurl.com/Aadesh-Location)
 
-- 👨‍💻 All of my projects are available at [**Portfolio**](https://aadeshlokhande.devfolio.io/)
+- 👨‍💻 All of my projects are available at [**Portfolio**](https://aadeshlokhande.github.io/Portfolio)
 
 - 📝 you Can Contact Me on [**WhatsApp**](wa.me/917058232826)
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **aadeshlokhande11@gmail.com**
 
-- 📄 Know about my experience at [**Resume**](tinyurl.com/aadeshresume)
+- 📄 Know about my experience at [**Resume**](tinyurl.com/2zrxs8ma)
 
 - ⚡ Fun fact **Python is an easier language to learn. No brackets, no main. Life changes when you get errors for writing an extra space ????**
 
